@@ -1,0 +1,9 @@
+# Windows / Visual Studio build files
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+Debug/
+Release/
+.vscode/
